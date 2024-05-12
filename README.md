@@ -38,9 +38,6 @@ print("Number of columns:",len(df.axes[1]))
 
 ### OUTPUT:
 ![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
